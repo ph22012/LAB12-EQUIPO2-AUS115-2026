@@ -1,0 +1,14 @@
+{
+  "name": "comercioexpress-audit-lab",
+  "version": "1.0.0",
+  "description": "Laboratorio vulnerable para auditoria API OWASP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.3"
+  }
+}
